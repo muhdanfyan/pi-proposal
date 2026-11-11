@@ -81,7 +81,7 @@ export default function App() {
               Simulasi CSR
             </a>
             <a
-              href="https://wa.me/6282293827200?text=Halo%20Pimpinan%20Pondok%20Informatika,%20perusahaan%20kami%20ingin%20mendiskusikan%20kemitraan%20CSR%20atau%20MoU%20beasiswa."
+              href="https://wa.me/6283134086899?text=Halo%20Pimpinan%20Pondok%20Informatika,%20perusahaan%20kami%20ingin%20mendiskusikan%20kemitraan%20CSR%20atau%20MoU%20beasiswa."
               target="_blank"
               rel="noreferrer"
               className="px-4 py-2 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-md shadow-indigo-600/20 transition-all flex items-center gap-1.5"
@@ -118,7 +118,7 @@ export default function App() {
               <ArrowRight className="w-4 h-4" />
             </a>
             <a
-              href="https://wa.me/6282293827200?text=Mohon%20kirimkan%20dokumen%20Proposal%20Lengkap%20CSR%20Pondok%20Informatika%20(PDF)."
+              href="https://wa.me/6283134086899?text=Mohon%20kirimkan%20dokumen%20Proposal%20Lengkap%20CSR%20Pondok%20Informatika%20(PDF)."
               target="_blank"
               rel="noreferrer"
               className="w-full sm:w-auto px-6 py-3.5 rounded-2xl bg-white hover:bg-slate-50 text-slate-800 border border-slate-300 font-bold text-sm shadow-sm flex items-center justify-center gap-2 transition-all"
@@ -218,7 +218,7 @@ export default function App() {
 
                   <div className="pt-8 mt-6 border-t border-slate-200/80">
                     <a
-                      href={`https://wa.me/6282293827200?text=Halo%20Pondok%20Informatika,%20kami%20tertarik%20dengan%20skema%20${encodeURIComponent(s.title)}.`}
+                      href={`https://wa.me/6283134086899?text=Halo%20Pondok%20Informatika,%20kami%20tertarik%20dengan%20skema%20${encodeURIComponent(s.title)}.`}
                       target="_blank"
                       rel="noreferrer"
                       className="w-full py-3 rounded-2xl bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-xs text-center block shadow-md shadow-indigo-600/20"
@@ -282,7 +282,7 @@ export default function App() {
               </div>
 
               <a
-                href={`https://wa.me/6282293827200?text=Halo%20Pimpinan%20Pondok%20Informatika,%20perusahaan%20kami%20ingin%20mengajukan%20dukungan%20beasiswa%20untuk%20${santriTargetCount}%20santri%20dengan%20estimasi%20${encodeURIComponent(formatRupiah(totalInvestmentYearly))}/tahun.`}
+                href={`https://wa.me/6283134086899?text=Halo%20Pimpinan%20Pondok%20Informatika,%20perusahaan%20kami%20ingin%20mengajukan%20dukungan%20beasiswa%20untuk%20${santriTargetCount}%20santri%20dengan%20estimasi%20${encodeURIComponent(formatRupiah(totalInvestmentYearly))}/tahun.`}
                 target="_blank"
                 rel="noreferrer"
                 className="w-full py-4 rounded-2xl bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-sm text-center shadow-lg shadow-indigo-600/20 flex items-center justify-center gap-2"
